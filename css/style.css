@@ -44,7 +44,8 @@ header {
   list-style-type: none;
 }
 
-.nav a:link, .nav a:visited {
+.nav a:link,
+.nav a:visited {
   color: #00330d;
   font-size: 20px;
   font-weight: bold;
@@ -52,7 +53,8 @@ header {
   text-decoration: none;
 }
 
-.nav a:hover, .nav a:active {
+.nav a:hover,
+.nav a:active {
   color: #00330d;
   text-decoration: underline;
 }
@@ -164,7 +166,7 @@ header {
   margin-bottom: 0px;
 }
 
-.commission-msg p{
+.commission-msg p {
   font-size: 38px;
 }
 .commission-msg span {
@@ -180,7 +182,8 @@ header {
   white-space: nowrap;
 }
 
-.commission-cond a:link, .commission-cond a:visited {
+.commission-cond a:link,
+.commission-cond a:visited {
   color: #a6ff00;
   font-size: 20px;
   font-weight: bold;
@@ -188,7 +191,8 @@ header {
   text-decoration: underline;
 }
 
-.commission-cond a:hover, .commission-cond a:active {
+.commission-cond a:hover,
+.commission-cond a:active {
   color: #cfff4d;
   text-decoration: underline;
 }
@@ -391,7 +395,7 @@ header {
   white-space: nowrap;
 }
 
-.content-img-info  {
+.content-img-info {
   font-size: 18px;
 }
 
@@ -446,11 +450,14 @@ header {
   background-color: #001a06;
 }
 
-#content-1, #content-2, #content-3 {
+#content-1,
+#content-2,
+#content-3 {
   width: 33.33%;
 }
 
-#content-1 h2, #content-2 h2 {
+#content-1 h2,
+#content-2 h2 {
   font-size: 24px;
   color: #fff;
   margin-bottom: 20px;
@@ -466,14 +473,16 @@ header {
   list-style-type: none;
 }
 
-#content-2 a:link, #content-2 a:visited {
+#content-2 a:link,
+#content-2 a:visited {
   text-decoration: none;
   color: #fff;
   font-size: 18px;
   padding: 10px 20px;
 }
 
-#content-2 a:hover, #content-2 a:active {
+#content-2 a:hover,
+#content-2 a:active {
   text-decoration: underline;
 }
 
